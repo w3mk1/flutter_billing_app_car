@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'تطبيق الفواتير',
+      title: 'CAR STYLE',
       debugShowCheckedModeBanner: false,
 
       // ==========================================
